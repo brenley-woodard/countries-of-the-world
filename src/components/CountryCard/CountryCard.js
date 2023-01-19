@@ -1,5 +1,4 @@
 import React from 'react';
-import useCountries from '../../hooks/useCountries';
 
 export default function CountryCard({ name, iso2 }) {
   return (
